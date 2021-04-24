@@ -1,4 +1,4 @@
-## GarbageLink
+## CurbDay
 
 ### Receive weekly garbage day reminders and find the best pickup services in your area.
 
